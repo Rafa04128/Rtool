@@ -1,0 +1,13 @@
+Rtools 
+Created and dsign by Rafael Garcia.
+
+Is a personal tool for my personal use case, do not use...
+
+Coming soon...
+
+Encrypting long form text data. 
+
+Language models. 
+
+Api
+
